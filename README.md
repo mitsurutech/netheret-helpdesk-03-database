@@ -1,5 +1,7 @@
 # Netheret help desk, step 03: database
 
+[English](README.md) | [Français](README.fr.md) | [Español](README.es.md) | [日本語](README.ja.md) | [Deutsch](README.de.md)
+
 A teaching example. Over sixteen steps we build a help desk web app for
 Netheret, a made-up company that supports the IT of small businesses. This
 step adds the database: the tables from the ERD as Python classes, and a
